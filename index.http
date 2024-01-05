@@ -1,0 +1,3 @@
+###### get
+GET http://localhost:5000/api/students
+Content-Type: application/json
